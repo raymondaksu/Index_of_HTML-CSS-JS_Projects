@@ -52,4 +52,4 @@
   <img src="images/google_landing_page.png" width="700"><br/><br/><br/><br/>
 - **Netflix Survey Form (HTML, CSS)** <br/>[Repository](https://github.com/raymondaksu/Project-001-Netflix-SignUp-Page-HTML-CSS_01) - 
   [Live demo](https://raymondaksu.github.io/Project-001-Netflix-SignUp-Page-HTML-CSS_01/)<br/>
-  <img src="images/netflix_survey_form.png" width="700"><br/><br/><br/><br/>
+  <img src="images/netflix_survey_form.png" width="700"><br/><br/><br/><br/><br/>
